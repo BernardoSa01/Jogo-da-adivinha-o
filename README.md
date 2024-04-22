@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <p align="center">A aplicação consiste em um jogo de adivinhação, onde o usuário, ao digitar um número entre 0 e 10, tenta adivinhar qual foi o número gerado aleatoriamente pelo sistema. Ao acertar, a aplicação informa quantas tentativas o usuário precisou até o acerto, e dá a opção de reiniciar o jogo.  <br/><br/></p>
 
-- <p> Neste projeto, apliquei o aprendizado absorvido sobre vários temas, destacando-se:<br><br></p>
+- <p> Neste projeto, apliquei o aprendizado absorvido sobre diversos temas, destacando-se:<br><br></p>
 &nbsp;- Estrutura de dados HTML<br>
 &nbsp;- Variáveis CSS<br>
 &nbsp;- Funções JavaScript<br>
