@@ -37,7 +37,14 @@ function handleTryClick(event) {
   if (Number(inputNumber.value) == randomNumber) {
    toggleScreen()
 
-   document.querySelector('.screen2 h2').innerText = `acertou em ${xAttempts} tentativas`
+   let message
+   if (xAttempts == 1) {
+    message = `Parabéns! Você acertou na primeira tentativa!`
+   } else {
+    message = `Acertou em ${xAttempts} tentativas`
+   }
+
+   document.querySelector('.screen2 h2').innerText = message
   }
 
   // "Zerar" o input a cada tentativa do usuário
